@@ -58,13 +58,6 @@ A responsive online tour booking application built with React and Next.js.
 
 [View Project](https://github.com/shakiba-bahrami/torino)
 
-#### Afrooz — Fashion Boutique
-
-A luxury fashion e-commerce project currently in the design phase.
-
-- Persian RTL interface
-- Modern and responsive UI design
-- Product shopping experience planning
 
 ---
 
