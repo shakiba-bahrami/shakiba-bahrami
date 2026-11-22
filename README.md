@@ -61,12 +61,6 @@ A responsive online tour booking application built with React and Next.js.
 
 ---
 
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shakiba-bahrami&show_icons=true&theme=github_dark&hide_border=true)
-
----
-
 ### 🌱 Currently
 
 - Improving my React and Next.js skills
