@@ -48,13 +48,15 @@ I enjoy turning designs into functional interfaces and improving my skills throu
 
 #### Torino — Online Tour Booking Platform
 
-A responsive online tour booking application built with React and Next.js.
+A responsive travel booking platform built with Next.js and React, featuring a complete tour discovery and booking experience.
 
-- User authentication
-- Tour browsing and details
+**Key Features:**
+- OTP-based user authentication
+- Tour browsing and detailed tour pages
 - Shopping basket and booking flow
-- User profile and transaction pages
-- Responsive design
+- User profile and account management
+- Tour history and transaction records
+- Responsive RTL interface
 
 [View Project](https://github.com/shakiba-bahrami/torino)
 
