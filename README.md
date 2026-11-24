@@ -68,7 +68,7 @@ BotoStart Academy · November 2026
 
 Completed an intensive Frontend Development Bootcamp covering HTML, CSS, JavaScript, Git, React, and Next.js, with hands-on assignments and a comprehensive final project.
 
-[View Certificate](https://botostart.ir/certificates/10000000000188)
+[![Frontend Certificate](./assets/frontend-certificate.webp)](https://botostart.ir/certificates/10000000000188)
 
 
 ### 🌱 Currently
